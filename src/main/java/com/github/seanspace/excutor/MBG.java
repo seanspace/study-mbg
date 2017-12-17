@@ -49,7 +49,6 @@ public class MBG {
     }
 
     public static void main(String[] args) {
-        //ymf-core/src/test/resources/mbg/
-        generate("src/main/resources/mbg/ymfGeneratorConfig.xml");
+        generate("src/main/resources/mbg/generatorConfig.xml");
     }
 }
